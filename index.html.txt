@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Waziristan – Land of History, Culture & Courage</title>
+    <meta name="description" content="Complete information about Waziristan – history, culture, tribes, tourism, geography, food, language and people.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 15px;
+            text-align: center;
+        }
+        section {
+            padding: 25px;
+            background: white;
+            margin: 15px;
+            border-radius: 6px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Waziristan</h1>
+    <p>Land of Brave People, Rich Culture, and Natural Beauty</p>
+</header>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        Waziristan is a historic and culturally rich region located in the northwest of Pakistan,
+        along the border with Afghanistan. It is divided into <strong>North Waziristan</strong> and
+        <strong>South Waziristan</strong>. The region is known for its strong tribal traditions,
+        hospitality, resilience, and deep sense of honor.
+    </p>
+</section>
+
+<section>
+    <h2>Geography</h2>
+    <p>
+        Waziristan is a mountainous region with rugged terrain, valleys, rivers, and forests.
+        The land is naturally defensive and has historically protected its people from external
+        invasions. The climate is cold in winters and mild to warm in summers.
+    </p>
+</section>
+
+<section>
+    <h2>History</h2>
+    <p>
+        Waziristan has a long history of independence and resistance. The people of Waziristan
+        have always valued freedom and self-rule. During the British era, Waziristan remained
+        difficult to control due to strong tribal unity. After Pakistan’s independence,
+        Waziristan became an important part of the country’s tribal regions.
+    </p>
+</section>
+
+<section>
+    <h2>Tribes of Waziristan</h2>
+    <p>
+        The major tribes of Waziristan include:
+    </p>
+    <ul>
+        <li>Wazir</li>
+        <li>Mehsud</li>
+        <li>Dawar</li>
+        <li>Burki</li>
+    </ul>
+    <p>
+        Tribal life is governed by <strong>Pashtunwali</strong>, a traditional code of honor,
+        hospitality, bravery, and justice.
+    </p>
+</section>
+
+<section>
+    <h2>Language</h2>
+    <p>
+        The primary language spoken in Waziristan is <strong>Pashto</strong>.
+        Urdu is understood, especially among educated people, while English is used in education
+        and official matters.
+    </p>
+</section>
+
+<section>
+    <h2>Culture & Traditions</h2>
+    <p>
+        Waziristani culture is deeply rooted in Pashtun traditions. Respect for elders,
+        hospitality to guests, courage, and loyalty are core values. Traditional dress includes
+        shalwar kameez and turbans. Poetry, storytelling, and jirga (tribal council) play an
+        important role in social life.
+    </p>
+</section>
+
+<section>
+    <h2>Food</h2>
+    <p>
+        Traditional food of Waziristan is simple and organic. Popular dishes include:
+    </p>
+    <ul>
+        <li>Rosh</li>
+        <li>Barbecue (Tikka)</li>
+        <li>Saag and local bread</li>
+        <li>Green tea (Kehwa)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Economy</h2>
+    <p>
+        The economy of Waziristan is based on agriculture, livestock, small trade, and labor.
+        In recent years, development projects and infrastructure improvements have opened new
+        opportunities for education and employment.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>
+        Education in Waziristan is growing steadily. Schools, colleges, and universities are
+        increasing, and many young people from Waziristan are now doctors, engineers, teachers,
+        and professionals serving Pakistan and abroad.
+    </p>
+</section>
+
+<section>
+    <h2>Tourism</h2>
+    <p>
+        Waziristan has great potential for tourism due to its natural beauty, mountains,
+        valleys, and unique culture. Peace and development are opening doors for visitors to
+        explore this beautiful region.
+    </p>
+</section>
+
+<section>
+    <h2>Modern Waziristan</h2>
+    <p>
+        Today, Waziristan is moving toward peace, education, and development. Roads, markets,
+        schools, and communication facilities are improving, giving the youth hope for a
+        brighter future.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Waziristan | Culture • History • Pride</p>
+</footer>
+
+</body>
+</html>
